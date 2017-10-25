@@ -1,0 +1,7 @@
+#1st APP: BullEye
+
+1. At the top most, there's a label that generates a randon number at the end of statment (ex. 55, up a 100)
+2. There a slider from 0 to 100, then user could slide this and try to match it from the 1st
+3. Place a button to check if the statement above and slider are matched
+4. Bottom left, has a refresher button.
+5. Next to refresher is a score and round label that displays previous score last game
